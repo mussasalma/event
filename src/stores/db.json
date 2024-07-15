@@ -1,0 +1,26 @@
+{
+  "guests": {
+    "guest1": {
+      "ID": "63e3601a",
+      "name": "Jesika Paulo",
+      "Class": "Form 1",
+      "RegNumber": "YGFDN",
+      "attendance": false,
+      "attendanceTime": ""
+    },
+    "guest2": {
+      "ID": "93c6c40e",
+      "name": "Doreen",
+      "Class": "Form 2",
+      "RegNumber": "YTTGHe34",
+      "attendance": false,
+      "attendanceTime": ""
+    }
+  },
+  "rfid_scans": {
+    "-NzxBZieCf5grRztKeHd": {
+      "cardID": "63e3601a",
+      "scanTime": "2024-06-15T14:17:52.458Z"
+    }
+  }
+}
